@@ -4,6 +4,26 @@ title:  "Welcome to Jekyll!"
 date:   2022-05-10 21:58:34 +0800
 categories: jekyll
 ---
+
+## Update Steps
+* add markdown files in `_posts`
+* install requirements
+```sh
+bundle install
+```
+* preview the blog 
+```sh
+bundle exec jekyll serve
+```
+* push to git and wait.
+
+## Tutorial
+
+* [git pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+* [a clear video series in youtube](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3)
+
+## Default Readme
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
