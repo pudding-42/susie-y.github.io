@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-10T23:34:14+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-10T21:58:34+08:00</published><updated>2022-05-10T21:58:34+08:00</updated><id>http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T17:44:25+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR.html" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR.html">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
+&lt;p&gt;MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。
+最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。&lt;/p&gt;
+
+&lt;h2 id=&quot;mir-是什么有什么应用场景&quot;&gt;MIR 是什么？有什么应用场景&lt;/h2&gt;
+
+&lt;p&gt;深度学习在音乐信息检索(MIR)方向的应用介绍：https://zhuanlan.zhihu.com/p/84756021&lt;/p&gt;
+
+&lt;h3 id=&quot;相关会议活动比赛&quot;&gt;相关会议&amp;amp;活动&amp;amp;比赛&lt;/h3&gt;
+
+&lt;p&gt;aisongcontest: https://www.aisongcontest.com/，小红书有账号&lt;/p&gt;
+
+&lt;h3 id=&quot;工业界应用&quot;&gt;工业界应用&lt;/h3&gt;
+
+&lt;h3 id=&quot;个人应用&quot;&gt;个人应用&lt;/h3&gt;
+
+&lt;p&gt;在微博看到 无吔学生 开发的 https://dango.ai/ ，提供分离人声、乐器声的工具。不一定算 MIR，但是觉得有趣先收集起来&lt;/p&gt;
+
+&lt;h2 id=&quot;怎么学&quot;&gt;怎么学？&lt;/h2&gt;
+
+&lt;p&gt;一个可以跟着学 MIR 的教程：https://github.com/stevetjoa/musicinformationretrieval.com&lt;/p&gt;
+
+&lt;p&gt;David Temperley 的书《The congnition of Basic Musical Structures》分析人对音乐的几种基本元素的认知。比如节拍、旋律、和声是如何被人分辨出来的。不太涉及技术，适合爱好者。
+我一直想知道，为什么有的音乐会格外打动我，想知道背后的原理。这本书看起来有一些相关，抽空也看看。&lt;/p&gt;
+
+&lt;p&gt;David Temperley 的课：Music and Probability，结合数学、编程、作曲。&lt;/p&gt;
+
+&lt;p&gt;书：《集异璧》&lt;/p&gt;</content><author><name></name></author><category term="MIR" /><summary type="html">机缘 MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。 最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-10T21:58:34+08:00</published><updated>2022-05-10T21:58:34+08:00</updated><id>http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll.html">&lt;h2 id=&quot;update-steps&quot;&gt;Update Steps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;add markdown files in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;install requirements
+    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;preview the blog
+    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;push to git and wait.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll&quot;&gt;git pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&amp;amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;amp;index=3&quot;&gt;a clear video series in youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;default-readme&quot;&gt;Default Readme&lt;/h2&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -14,4 +64,4 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">先就这样吧</title><link href="http://localhost:4000/other/2022/05/10/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99.html" rel="alternate" type="text/html" title="先就这样吧" /><published>2022-05-10T00:00:00+08:00</published><updated>2022-05-10T00:00:00+08:00</updated><id>http://localhost:4000/other/2022/05/10/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99</id><content type="html" xml:base="http://localhost:4000/other/2022/05/10/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99.html">&lt;p&gt;想到什么写什么，反正不要钱&lt;/p&gt;</content><author><name></name></author><category term="other" /><summary type="html">想到什么写什么，反正不要钱</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">Update Steps add markdown files in _posts install requirements bundle install preview the blog bundle exec jekyll serve push to git and wait.</summary></entry></feed>

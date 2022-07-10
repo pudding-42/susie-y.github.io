@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Introduction to MIR"
+date:   2022-07-10 16:00:00 +0800
+categories: MIR
+---
+## 机缘
+MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。
+最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。
+
+## MIR 是什么？有什么应用场景
+
+深度学习在音乐信息检索(MIR)方向的应用介绍：https://zhuanlan.zhihu.com/p/84756021
+
+### 相关会议&活动&比赛
+
+aisongcontest: https://www.aisongcontest.com/，小红书有账号
+
+### 工业界应用
+
+### 个人应用
+
+在微博看到 无吔学生 开发的 https://dango.ai/ ，提供分离人声、乐器声的工具。不一定算 MIR，但是觉得有趣先收集起来
+
+
+## 怎么学？
+
+一个可以跟着学 MIR 的教程：https://github.com/stevetjoa/musicinformationretrieval.com 
+
+
+David Temperley 的书《The congnition of Basic Musical Structures》分析人对音乐的几种基本元素的认知。比如节拍、旋律、和声是如何被人分辨出来的。不太涉及技术，适合爱好者。
+我一直想知道，为什么有的音乐会格外打动我，想知道背后的原理。这本书看起来有一些相关，抽空也看看。
+
+David Temperley 的课：Music and Probability，结合数学、编程、作曲。
+
+书：《集异璧》
