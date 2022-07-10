@@ -17,7 +17,7 @@ MIR: music information retrieval，音乐信息检索。以前遇见过一个学
 aisongcontest: https://www.aisongcontest.com/，小红书有账号
 
 ### 工业界应用
-
+[苹果收购AI 音乐初创公司](https://cloud.tencent.com/developer/article/1949865)
 ### 个人应用
 
 在微博看到 无吔学生 开发的 https://dango.ai/ ，提供分离人声、乐器声的工具。不一定算 MIR，但是觉得有趣先收集起来

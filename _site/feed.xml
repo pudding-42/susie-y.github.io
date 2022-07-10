@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T17:44:25+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR.html" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR.html">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T17:50:37+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR.html" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR.html">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
 &lt;p&gt;MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。
 最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。&lt;/p&gt;
 
@@ -11,7 +11,7 @@
 &lt;p&gt;aisongcontest: https://www.aisongcontest.com/，小红书有账号&lt;/p&gt;
 
 &lt;h3 id=&quot;工业界应用&quot;&gt;工业界应用&lt;/h3&gt;
-
+&lt;p&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1949865&quot;&gt;苹果收购AI 音乐初创公司&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;个人应用&quot;&gt;个人应用&lt;/h3&gt;
 
 &lt;p&gt;在微博看到 无吔学生 开发的 https://dango.ai/ ，提供分离人声、乐器声的工具。不一定算 MIR，但是觉得有趣先收集起来&lt;/p&gt;
