@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T18:20:33+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR.html" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR.html">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-20T00:28:14+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>种一棵自己的树。捏一个杯子，上刻「不到最后不算结束有限公司」。</subtitle><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR.html" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR.html">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
 &lt;p&gt;MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。
 最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。&lt;/p&gt;
 
@@ -8,7 +8,12 @@
 
 &lt;h3 id=&quot;相关会议活动比赛&quot;&gt;相关会议&amp;amp;活动&amp;amp;比赛&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.aisongcontest.com/&quot;&gt;aisongcontest&lt;/a&gt; ，小红书有账号&lt;/p&gt;
+&lt;p&gt;国外：&lt;a href=&quot;https://www.aisongcontest.com/&quot;&gt;aisongcontest&lt;/a&gt; ，小红书有账号
+国内：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;音乐人工智能发展研讨会&lt;/li&gt;
+  &lt;li&gt;“预见新时代数字音乐未来”数字音乐产业发展论坛&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;工业界应用&quot;&gt;工业界应用&lt;/h3&gt;
 &lt;ul&gt;
@@ -16,10 +21,17 @@
     &lt;ul&gt;
       &lt;li&gt;2022年初， &lt;a href=&quot;https://cloud.tencent.com/developer/article/1949865&quot;&gt;苹果收购AI 音乐初创公司&lt;/a&gt;，AI Music 公司利用人工智能来生成量身定制的音乐，旨在为营销人员、出版商、健身人士和创意机构创建定制的音频解决方案。我理解优势在于可以个性化生成+免版权税。个性化是指根据运动时的心率改变以适应锻炼强度。&lt;/li&gt;
       &lt;li&gt;更多海外 &lt;a href=&quot;https://36kr.com/p/1321999509686787&quot;&gt;AI 音乐公司&lt;/a&gt;，其中 AIVA 获得了网易投资。不过这都是两年前的事了，裁员大背景下不知道网易还会不会继续发力。&lt;/li&gt;
-      &lt;li&gt;国内有&lt;a href=&quot;https://tianyin.163.com/&quot;&gt;网易天音&lt;/a&gt;，可以选一些风格参数，渲染歌曲出来，网易云音乐 app 上搜网易天音能找到一些歌曲，但是还难说很好听吧。腾讯、抖音、快手等也有&lt;a href=&quot;https://new.qq.com/omn/20220216/20220216A02HF700.html&quot;&gt;入局动作&lt;/a&gt;，感觉抖音快手这种短视频社区会更需要数量多、但质量没那么高的 AI 音乐，场景比网易云更合理一些。
-        &lt;h3 id=&quot;个人应用&quot;&gt;个人应用&lt;/h3&gt;
+      &lt;li&gt;国内大厂有&lt;a href=&quot;https://tianyin.163.com/&quot;&gt;网易天音&lt;/a&gt;，可以选一些风格参数，渲染歌曲出来，网易云音乐 app 上搜网易天音能找到一些歌曲，但是还难说很好听吧。腾讯、抖音、快手等也有&lt;a href=&quot;https://new.qq.com/omn/20220216/20220216A02HF700.html&quot;&gt;入局动作&lt;/a&gt;，感觉抖音快手这种短视频社区会更需要数量多、但质量没那么高的 AI 音乐，场景比网易云更合理一些。&lt;/li&gt;
+      &lt;li&gt;国内创业公司：
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1420615&quot;&gt;时域&lt;/a&gt;，查了下天眼查，看起来是开发了虚拟歌姬 app。18年成立，现在参保还只有 9人&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://tech.sina.cn/it/2019-07-17/detail-ihytcerm4143511.d.html&quot;&gt;灵动音&lt;/a&gt;，起初的愿景是赋能创作者，&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;音乐教育
+    &lt;h3 id=&quot;个人应用&quot;&gt;个人应用&lt;/h3&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
