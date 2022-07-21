@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-22T01:49:52+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">不到最后不算结束有限公司</title><subtitle>look for inner peace</subtitle><author><name>susie</name></author><entry><title type="html">Goland 报错 cannot use xx (type string) as the type any</title><link href="http://localhost:4000/golang/2022/07/21/Goland-%E6%8A%A5%E9%94%99-Cannot-use-xx-(type-string)-as-the-type-any/" rel="alternate" type="text/html" title="Goland 报错 cannot use xx (type string) as the type any" /><published>2022-07-21T22:00:00+08:00</published><updated>2022-07-21T22:00:00+08:00</updated><id>http://localhost:4000/golang/2022/07/21/Goland%20%E6%8A%A5%E9%94%99%20Cannot%20use%20xx%20(type%20string)%20as%20the%20type%20any</id><content type="html" xml:base="http://localhost:4000/golang/2022/07/21/Goland-%E6%8A%A5%E9%94%99-Cannot-use-xx-(type-string)-as-the-type-any/">&lt;h2 id=&quot;问题&quot;&gt;问题&lt;/h2&gt;
+
+&lt;p&gt;升级 go 1.18 后，goland 出现了一些奇怪的报错。比如在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;panic(&quot;implement me&quot;)&lt;/code&gt;下出现了红色波浪线。&lt;/p&gt;
+
+&lt;p&gt;即报错&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cannot use &quot;implement me&quot; (type string) as the type any&lt;/code&gt;。我心想，这么个语法还能报错？我这程序明明能跑，是不是你 goland 坏了。&lt;/p&gt;
+
+&lt;h2 id=&quot;办法&quot;&gt;办法&lt;/h2&gt;
+&lt;p&gt;搜了搜，果然&lt;a href=&quot;https://youtrack.jetbrains.com/issue/GO-12171&quot;&gt;有人问过了&lt;/a&gt;，goland 版本问题，升级到 2021.3.3 以上就可以解决。&lt;/p&gt;
+
+&lt;h2 id=&quot;瞎扯&quot;&gt;瞎扯&lt;/h2&gt;
+&lt;p&gt;看起来是 1.18 引入的特性比较多，goland 费了一番功夫才适配好。想起上个月底收到了 &lt;a href=&quot;https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/&quot;&gt;jetbrain 涨价&lt;/a&gt;的邮件，又去看了看价格单，全家桶一年会贵一百好几，原价 DDL 是今年 10 月，我可以再犹豫两个月决定续不续费，续单个软件还是续全家桶。&lt;/p&gt;
+
+&lt;p&gt;平时订阅了一些技术公众号，golang 有点风吹草动都报团更文。什么出新特性啦，最近写 go 的某大佬离开 google 啦…… jetbrain 涨价竟然没看到有博主推，明明身边 10 个 golang 程序员 9 个在用 goland。或许因为用盗版比例太高了吧，或者大厂程序员都是靠公司付钱自己不关心。&lt;/p&gt;
+
+&lt;p&gt;jetbrain 的涨价通知写得蛮真诚的，说 7 年了第一次涨价，此前新增了很多特性都没涨价，对老用户的折扣也一直很大，实在是成本上升到了要涨价的时刻了，以后争取尽量不涨。&lt;/p&gt;
+
+&lt;p&gt;不知道这个涨价，能不能算作「我受到了欧美通货膨胀波及」的例子。&lt;/p&gt;
+
+&lt;p&gt;Anyway，希望认真做软件的人能挣到钱。&lt;/p&gt;</content><author><name>susie</name></author><category term="golang" /><summary type="html">问题</summary></entry><entry><title type="html">The End of the World Is Just the Beginning</title><link href="http://localhost:4000/future/2022/07/20/The-End-of-the-World-Is-Just-the-Beginning/" rel="alternate" type="text/html" title="The End of the World Is Just the Beginning" /><published>2022-07-20T16:00:00+08:00</published><updated>2022-07-20T16:00:00+08:00</updated><id>http://localhost:4000/future/2022/07/20/The-End-of-the-World-Is-Just-the-Beginning</id><content type="html" xml:base="http://localhost:4000/future/2022/07/20/The-End-of-the-World-Is-Just-the-Beginning/">&lt;p&gt;想看这本书：&lt;a href=&quot;https://www.amazon.com/End-World-Just-Beginning-Globalization/dp/006323047X/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;amp;qid=&amp;amp;sr=&quot;&gt;The End of the World Is Just the Beginning&lt;/a&gt;，由&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cDovL3dha2luZ3VwLmxpYnN5bi5jb20vcnNz/episode/YjQ0MWUyZGEtNjI5Ny00NDNhLThiMWEtOTg4NjIxOGNiMDFi?sa=X&amp;amp;ved=0CAUQkfYCahcKEwjY95bCqoX5AhUAAAAAHQAAAAAQCg&amp;amp;hl=en&quot;&gt;Make Sense&lt;/a&gt; 播客推荐。虽然现在听英文播客还有些费力，而且也没有付费去看全集，但看了介绍还蛮感兴趣的。&lt;/p&gt;
+
+&lt;p&gt;最近发生的事情很多，疫情、战争、欧元日元贬值、能源紧张……想看一些关于近未来的分析，也有一些长期感兴趣的领域，都在中文领域较难找到有获得感的内容。慢慢看些英文内容吧。&lt;/p&gt;
+
+&lt;h3 id=&quot;简介&quot;&gt;简介&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A New York Times Bestseller!
+2019 was the last great year for the world economy.
+For generations, everything has been getting faster, better, and cheaper. Finally, we reached the point that almost anything you could ever want could be sent to your home within days - even hours - of when you decided you wanted it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;纽约时报畅销书。
+2019 是世界经济最后的好日子。
+几代人以来，一切都变得更快、更好、更便宜。 最后，我们到达一个这样的时刻：几乎任何你想要的东西都可以在你决定想要它的几天内（甚至几小时）内送到家中。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;America made that happen, but now America has lost interest in keeping it going.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;美国做到了这一点，但现在美国已经失去了继续保持下去的兴趣。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Globe-spanning supply chains are only possible with the protection of the U.S. Navy. The American dollar underpins internationalized energy and financial markets. Complex, innovative industries were created to satisfy American consumers. American security policy forced warring nations to lay down their arms. Billions of people have been fed and educated as the American-led trade system spread across the globe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;只有在美国海军的保护下，全球供应链才有可能实现。美元支撑着国际化的能源和金融市场。为了满足美国消费者的需求，创建了复杂的创新产业。美国的安全政策迫使交战国放下武器。随着美国主导的贸易体系遍布全球，数十亿人得到了食物和教育。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All of this was artificial. All this was temporary. All this is ending.
+In The End of the World is Just the Beginning, author and geopolitical strategist Peter Zeihan maps out the next world: a world where countries or regions will have no choice but to make their own goods, grow their own food, secure their own energy, fight their own battles, and do it all with populations that are both shrinking and aging.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这一切都是人为的。这一切都是暂时的。这一切都结束了。
+在本书 End of the World is Just the Beginning 中，作家兼地缘政治战略家 Peter Zeihan 描绘了下一个世界：一个国家或地区别无选择，只能制造自己的商品、种植自己的粮食、确保自己的能源的世界，打自己的仗，并与正在萎缩和老龄化的人口一起做这一切。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The list of countries that make it all work is smaller than you think. Which means everything about our interconnected world - from how we manufacture products, to how we grow food, to how we keep the lights on, to how we shuttle stuff about, to how we pay for it all - is about to change.
+In customary Zeihan fashion, rather than yelling fire in the geoeconomic theatre, he narrates the accumulation of matchsticks, gasoline, and dynamite in the hands of the oblivious audience, suggesting we might want to call the fire department.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;能搞定这一切的国家比你想象的要少。这意味着我们相互关联的世界的一切——从我们如何制造产品，到我们如何种植食物，到我们如何保持照明，再到我们如何穿梭，再到我们如何为这一切付费——都将发生变化。
+以 Zeihan 一贯的方式，他没有在地缘经济剧院中大喊大火，而是讲述了火柴棍、汽油和炸药在不知情的观众手中的堆积，暗示我们可能想打电话给消防部门。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A world ending. A world beginning. Zeihan brings readers along for an illuminating (and a bit terrifying) ride packed with foresight, wit, and his trademark irreverence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一个世界结束了，一个世界开始了。 Zeihan 为读者带来了充满远见、智慧和他标志性的不敬的启蒙之旅（也有点可怕）。&lt;/p&gt;</content><author><name>susie</name></author><category term="Future" /><summary type="html">想看这本书：The End of the World Is Just the Beginning，由Make Sense 播客推荐。虽然现在听英文播客还有些费力，而且也没有付费去看全集，但看了介绍还蛮感兴趣的。</summary></entry><entry><title type="html">Introduction to MIR</title><link href="http://localhost:4000/mir/2022/07/10/MIR/" rel="alternate" type="text/html" title="Introduction to MIR" /><published>2022-07-10T16:00:00+08:00</published><updated>2022-07-10T16:00:00+08:00</updated><id>http://localhost:4000/mir/2022/07/10/MIR</id><content type="html" xml:base="http://localhost:4000/mir/2022/07/10/MIR/">&lt;h2 id=&quot;机缘&quot;&gt;机缘&lt;/h2&gt;
+&lt;p&gt;MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。
+最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。&lt;/p&gt;
+
+&lt;h2 id=&quot;mir-是什么有什么应用场景&quot;&gt;MIR 是什么？有什么应用场景&lt;/h2&gt;
+
+&lt;p&gt;2019年一篇知乎专栏文章翻译了一篇MIR综述，&lt;a href=&quot;https://zhuanlan.zhihu.com/p/84756021&quot;&gt;深度学习在音乐信息检索(MIR)方向的应用介绍&lt;/a&gt;。好奇3年过去了，又有了什么新进展。&lt;/p&gt;
+
+&lt;h3 id=&quot;相关会议活动比赛&quot;&gt;相关会议&amp;amp;活动&amp;amp;比赛&lt;/h3&gt;
+
+&lt;p&gt;国外：&lt;a href=&quot;https://www.aisongcontest.com/&quot;&gt;aisongcontest&lt;/a&gt; ，小红书有账号
+国内：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;音乐人工智能发展研讨会&lt;/li&gt;
+  &lt;li&gt;“预见新时代数字音乐未来”数字音乐产业发展论坛&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;工业界应用&quot;&gt;工业界应用&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI 创作音乐
+    &lt;ul&gt;
+      &lt;li&gt;2022年初， &lt;a href=&quot;https://cloud.tencent.com/developer/article/1949865&quot;&gt;苹果收购AI 音乐初创公司&lt;/a&gt;，AI Music 公司利用人工智能来生成量身定制的音乐，旨在为营销人员、出版商、健身人士和创意机构创建定制的音频解决方案。我理解优势在于可以个性化生成+免版权税。个性化是指根据运动时的心率改变以适应锻炼强度。&lt;/li&gt;
+      &lt;li&gt;更多海外 &lt;a href=&quot;https://36kr.com/p/1321999509686787&quot;&gt;AI 音乐公司&lt;/a&gt;，其中 AIVA 获得了网易投资。不过这都是两年前的事了，裁员大背景下不知道网易还会不会继续发力。&lt;/li&gt;
+      &lt;li&gt;国内大厂有&lt;a href=&quot;https://tianyin.163.com/&quot;&gt;网易天音&lt;/a&gt;，可以选一些风格参数，渲染歌曲出来，网易云音乐 app 上搜网易天音能找到一些歌曲，但是还难说很好听吧。腾讯、抖音、快手等也有&lt;a href=&quot;https://new.qq.com/omn/20220216/20220216A02HF700.html&quot;&gt;入局动作&lt;/a&gt;，感觉抖音快手这种短视频社区会更需要数量多、但质量没那么高的 AI 音乐，场景比网易云更合理一些。&lt;/li&gt;
+      &lt;li&gt;国内创业公司：
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1420615&quot;&gt;时域&lt;/a&gt;，查了下天眼查，看起来是开发了虚拟歌姬 app。18年成立，现在参保还只有 9人&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://tech.sina.cn/it/2019-07-17/detail-ihytcerm4143511.d.html&quot;&gt;灵动音&lt;/a&gt;，起初的愿景是赋能创作者，&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;音乐教育
+    &lt;h3 id=&quot;个人应用&quot;&gt;个人应用&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在微博看到 无吔学生 开发的 https://dango.ai/ ，提供分离人声、乐器声的工具。不一定算 MIR，觉得有趣先收集起来&lt;/p&gt;
+
+&lt;h2 id=&quot;怎么学&quot;&gt;怎么学？&lt;/h2&gt;
+
+&lt;p&gt;一个可以跟着学 MIR 的教程 &lt;a href=&quot;https://github.com/stevetjoa/musicinformationretrieval.com&quot;&gt;musicinformationretrieval&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;David Temperley 的书《The congnition of Basic Musical Structures》分析人对音乐的几种基本元素的认知。比如节拍、旋律、和声是如何被人分辨出来的。不太涉及技术，适合爱好者。
+我一直想知道，为什么有的音乐会格外打动我，想知道背后的原理。这本书看起来有一些相关，抽空也看看。&lt;/p&gt;
+
+&lt;p&gt;David Temperley 的课：Music and Probability，结合数学、编程、作曲。&lt;/p&gt;
+
+&lt;p&gt;书：《集异璧》&lt;/p&gt;</content><author><name>susie</name></author><category term="MIR" /><summary type="html">机缘 MIR: music information retrieval，音乐信息检索。以前遇见过一个学「用 AI 创作音乐」的姑娘，忘记具体专业名叫什么了，当时只觉得这个方向好高大上。 最近偶然刷到一个 MIR 教程，听起来有些类似。只不过比起「创作音乐」，更像是「解构音乐」，听起来并不要求工程师很懂音乐，让我这样平凡的音乐爱好者突然有了兴趣和勇气去了解。</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-10T21:58:34+08:00</published><updated>2022-05-10T21:58:34+08:00</updated><id>http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2022/05/10/welcome-to-jekyll/">&lt;h2 id=&quot;update-steps&quot;&gt;Update Steps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;add markdown files in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;install requirements
+    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;preview the blog
+    &lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;push to git and wait.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tutorial&quot;&gt;Tutorial&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll&quot;&gt;git pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&amp;amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;amp;index=3&quot;&gt;a clear video series in youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;default-readme&quot;&gt;Default Readme&lt;/h2&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;
+  &lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>susie</name></author><category term="jekyll" /><summary type="html">Update Steps add markdown files in _posts install requirements bundle install preview the blog bundle exec jekyll serve push to git and wait.</summary></entry></feed>
