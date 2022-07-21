@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username:  susie-y
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 # theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
